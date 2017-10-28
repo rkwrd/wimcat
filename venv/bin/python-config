@@ -1,4 +1,4 @@
-#!/Users/arne/Projects/wimcat/venv/bin/python
+#!/home/arne/projects/wimcat/venv/bin/python
 
 import sys
 import getopt
